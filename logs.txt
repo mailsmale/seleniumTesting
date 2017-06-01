@@ -1,0 +1,1 @@
+2016-03-09 09:47:54 INFO  RelativityTest:37 - private static final Logger LOG1 = LoggerFactory.getLogger(GetTextWithoutTags.class.getSimpleName());

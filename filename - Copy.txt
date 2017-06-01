@@ -1,0 +1,81 @@
+.Control Number^
+.Attachment Document IDs^
+.Attachment List^
+.Author^
+.BCC Address^
+.CC Address^
+.Child MD5 Hash Values^
+.Child SHA1 Hash Values^
+.Child SHA256 Hash Values^
+.Comments^
+.Company^
+.Contains Embedded Files^
+.Control Number Beg Attach^
+.Control Number End Attach^
+.Conversation^
+.Conversation Family^
+.Conversation Index^
+.Date Created^
+.Date Last Modified^
+.Date Last Printed^
+.Date Received^
+.Date Sent^
+.DeDuped Custodians^
+.DeDuped Paths^
+.Delivery Receipt^
+.Document Class^
+.Document Extension^
+.Document Subject^
+.Domains (Email BCC)^
+.Domains (Email CC)^
+.Domains (Email From)^
+.Domains (Email To)^
+.Email BCC^
+.Email Categories^
+.Email CC^
+.Email From^
+.Email In Reply To ID^
+.Email Store Name^
+.Email Subject^
+.Email To^
+.File Name^
+.File Size^
+.File Type^
+.From Address^
+.Group Identifier^
+.Has Hidden Data^
+.Importance^
+.Keywords^
+.Last Accessed Date/Time^
+.Last Saved By^
+.Last Saved Date/Time^
+.Logical Path^
+.Lotus Notes Other Folders^
+.MD5 Hash^
+.Media Type^
+.Meeting End Date/Time^
+.Meeting Start Date/Time^
+.Message Header^
+.Message ID^
+.Message Type^
+.Native File^
+.Number of Attachments^
+.OCR Text^
+.Office Document Manager^
+.Office Revision Number^
+.Other Props^
+.Parent Document ID^
+.Password Protected^
+.Primary Date^
+.Read Receipt^
+.Recipient Count^
+.Sensitivity^
+.SHA1 Hash^
+.SHA256 Hash^
+.Sort Date^
+.Speaker Notes^
+.To Address^
+.Track Changes^
+.Unified Title^
+.Unprocessable^
+.Unread Flag^
